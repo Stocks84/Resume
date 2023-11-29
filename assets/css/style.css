@@ -333,3 +333,8 @@ footer {
 .history-items {
     margin-bottom: 30px;
 }
+
+.work-history-icon {
+    font-size: 26px;
+    color: #67377a;
+}
